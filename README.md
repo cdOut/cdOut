@@ -2,7 +2,7 @@
 
 I'm a Software engineer focused on **React**, **React Native**, **TypeScript**, and graphics programming in **C++**.
 
-🚧 Currently building **Fluidity** — a real-time SPH fluid simulation and editor in modern C++  
+🚧 Currently building **Fluidity**, a Real-Time SPH FLuid Simulation and Editor in Modern C++  
 🎮 Also prototyping games in **Godot**
 
 ## 🧰 Stack
