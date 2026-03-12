@@ -6,7 +6,7 @@ I'm a Software engineer focused on **React**, **React Native**, **TypeScript**, 
 🎮 Also prototyping games in **Godot**
 
 ## 🧰 Stack
-JavaScript · TypeScript · C++ · React · React Native · Next.js · Node.js · OpenGL
+JavaScript, TypeScript, C++, React, React Native, Next.js, Node.js, OpenGL
 
 ## ✨ Featured Project
 ### [Radiance](https://github.com/cdOut/Radiance)
