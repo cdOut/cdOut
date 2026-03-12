@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Tymoteusz 👋
 
-<!--
-**cdOut/cdOut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer focused on **React**, **React Native**, **TypeScript**, and graphics programming in **C++**.
 
-Here are some ideas to get you started:
+🚧 Currently building **Fluidity** — a real-time SPH fluid simulation and editor in modern C++  
+🎮 Also prototyping games in **Godot**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stack
+JavaScript · TypeScript · C++ · React · React Native · Next.js · Node.js · OpenGL
+
+## ✨ Featured Project
+### [Radiance](https://github.com/cdOut/Radiance)
+A modern C++ physically based ray tracer and real-time OpenGL editor.
+
+## 🧑‍💻 Background
+Former Software Engineer at **Software Mansion**, where I contributed to large international projects, including **Expensify**.  
+Graduated in **Applied Computer Science** from **AGH University of Science and Technology**, earning the title of **Engineer**.
